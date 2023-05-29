@@ -19,6 +19,7 @@ public class UtlidadesRefactorización {
         System.out.println("Edad: " + profesor.getEdad());
         System.out.println("Telefono: " + profesor.getNumeroDeTelefono());
         System.out.println("Prestamos: " + profesor.getPrestamos());
+        System.out.println("Esta es toda la información del profesor");
     }
 
 
